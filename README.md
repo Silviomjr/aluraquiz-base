@@ -1,5 +1,5 @@
 
-![]('https://raw.githubusercontent.com/Silviomjr/gifsrepo/main/aluraquiz.gif')
+![](https://raw.githubusercontent.com/Silviomjr/gifsrepo/main/aluraquiz.gif)
 
 # Introduction
 
