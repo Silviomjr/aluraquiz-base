@@ -1,5 +1,5 @@
 
-![exemplo]('https://raw.githubusercontent.com/Silviomjr/gifsrepo/main/aluraquiz.gif?token=APNW7JRXUNXKQG4YF6IDF43ADGKJ4')
+![]('https://raw.githubusercontent.com/Silviomjr/gifsrepo/main/aluraquiz.gif?token=APNW7JRXUNXKQG4YF6IDF43ADGKJ4')
 
 # Introduction
 
