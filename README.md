@@ -1,3 +1,16 @@
+
+![exemplo]('https://raw.githubusercontent.com/Silviomjr/gifsrepo/main/aluraquiz.gif?token=APNW7JRXUNXKQG4YF6IDF43ADGKJ4')
+
+# Introduction
+
+A simple webapp to play in an amazing quiz, made by Alura! Mario Souto and Juliana Amoasei.
+
+# Contact
+
+[Silvio Manenti Junior](silviomjr@live.com)
+
+
+
 # Example app with styled-components
 
 This example features how you use a different styling solution than [styled-jsx](https://github.com/zeit/styled-jsx) that also supports universal styles. That means we can serve the required styles for the first render within the HTML and then load the rest in the client. In this case we are using [styled-components](https://github.com/styled-components/styled-components).
